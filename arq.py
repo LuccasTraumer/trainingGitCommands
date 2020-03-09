@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("Luccas")
 
 print(" test a rebase ")
